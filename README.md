@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a passionate Full Stack Developer with a strong foundation in Java, Python, DSA, and SQL. I graduated with a B.Tech in Information Technology from NITK (2024), and I’m currently upskilling with Java and Python Full Stack Development at KodNest, where I’m also completing a hands-on internship.<br><br>With a strong desire to grow and a clear goal of landing a high-impact tech job, I am focused on refining both my backend and frontend skills. I believe in building real-world solutions, writing clean, maintainable code, and continuously pushing the boundaries of what I can achieve.
 
 
